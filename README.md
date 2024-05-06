@@ -22,6 +22,8 @@ This is an example parameter set:
 
 **Both parameters should not be trailed by a backslash!**
 
+## Usage 
+
 Call with Command Prompt
 
 ```
@@ -47,6 +49,8 @@ Call with PowerShell
 ```
 
 The *.csproj includes will now be linked.
+
+## Reference 
 
 Again, please refer to the blog post 
 [How to migrate an AutoCAD based application to .NET Core 8.0 [Part II]](https://thebuildingcoder.typepad.com/blog/2024/04/migrating-from-net-48-to-net-core-8.html)
