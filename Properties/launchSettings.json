@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "csprojLink": {
+      "commandName": "Project",
+      "commandLineArgs": " \"D:\\DEV\\_AuStMgd\\AuSt10Mgd\\AuSt10Mgd\\\" \"..\\AuSt10Mgd_net4\\\""
+    }
+  }
+}
